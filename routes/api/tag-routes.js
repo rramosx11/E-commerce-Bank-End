@@ -24,7 +24,7 @@ router.get("/", (req, res) => {
 router.get("/:id", (req, res) => {
   // find a single tag by its `id`
   // be sure to include its associated Product data
-  Product.findOne({
+  Tag.findOne({
     where: {
       id: req.params.id,
     },
@@ -80,7 +80,7 @@ router.put("/:id", (req, res) => {
 
 router.delete("/:id", (req, res) => {
   // delete on tag by its `id` value
-  Tag.destroy(req.body, {
+  Tag.destroy({
     where: {
       id: req.params.id,
     },

@@ -30,7 +30,7 @@ To use this application a user needs to start the server on local host then use 
 
 ![Demo-Download](https://github.com/rramosx11/E-commerce-Bank-End/blob/main/assets/demo/E-Commerce%20Back-End%20Demo.mp4)
 
-[Demo-YouTube-Link](https://www.youtube.com/watch?v=CYxhUXJj35Q
+![Demo-YouTube-Link](https://www.youtube.com/watch?v=CYxhUXJj35Q
 
 ## [Contributing](#table-of-contents)
 
